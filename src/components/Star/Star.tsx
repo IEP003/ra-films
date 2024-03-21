@@ -1,4 +1,3 @@
-
 export const Star = () => (
     <ul className="card-body-stars u-clearfix">
         <li>
